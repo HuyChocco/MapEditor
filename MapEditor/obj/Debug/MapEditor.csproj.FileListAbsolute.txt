@@ -1,0 +1,34 @@
+C:\Users\Setup\source\repos\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+C:\Users\Setup\source\repos\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+C:\Users\Setup\source\repos\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+C:\Users\Setup\source\repos\MapEditor\MapEditor\obj\Debug\MapEditor.csprojAssemblyReference.cache
+C:\Users\Setup\source\repos\MapEditor\MapEditor\obj\Debug\MapEditor.Form1.resources
+C:\Users\Setup\source\repos\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+C:\Users\Setup\source\repos\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.cache
+C:\Users\Setup\source\repos\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.CoreCompileInputs.cache
+C:\Users\Setup\source\repos\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+C:\Users\Setup\source\repos\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+C:\Users\Setup\source\repos\MapEditor\MapEditor\obj\Debug\MapEditor.Form2.resources
+E:\Project\MON GAME\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+E:\Project\MON GAME\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+E:\Project\MON GAME\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+E:\Project\MON GAME\MapEditor\MapEditor\obj\Debug\MapEditor.csprojAssemblyReference.cache
+E:\Project\MON GAME\MapEditor\MapEditor\obj\Debug\MapEditor.Form1.resources
+E:\Project\MON GAME\MapEditor\MapEditor\obj\Debug\MapEditor.Form2.resources
+E:\Project\MON GAME\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+E:\Project\MON GAME\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.cache
+E:\Project\MON GAME\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.CoreCompileInputs.cache
+E:\Project\MON GAME\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+E:\Project\MON GAME\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+D:\game\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+D:\game\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+D:\game\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+D:\game\MapEditor\MapEditor\obj\Debug\MapEditor.csprojAssemblyReference.cache
+D:\game\MapEditor\MapEditor\obj\Debug\MapEditor.Form1.resources
+D:\game\MapEditor\MapEditor\obj\Debug\MapEditor.Form2.resources
+D:\game\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+D:\game\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.cache
+D:\game\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.CoreCompileInputs.cache
+D:\game\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+D:\game\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+D:\game\MapEditor\MapEditor\obj\Debug\MapEditor.Form3.resources
